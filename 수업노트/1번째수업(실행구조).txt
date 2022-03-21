@@ -1,0 +1,27 @@
+src에서 alt+insert
+
+자바에서는 파일하나하나가 클래스라고함
+src안에 클래스를 다 만듬
+여기서 main 메써드를 먼저 스타트시킴
+
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("Hello haha");
+    }
+}
+psvm
+sout
+
+내가만든건 src에 만들어지고 bin안에는 컴파일된파일인데 실제로 저걸 시키는거임
+
+자바.exe 자바c.exe를 다른 디렉토리에서도 사용할수있게 환경설정변수등록을함
+
+java소스(우리가만든코드) -> javac.exe가 컴파일러 -> 바이트코드파일(xxx.class)
+-> JVM구동(java.exe) -> 기계어->실행
+
+C계열
+개발자가 직접 메모리를 관리
+
+JAVA프로그램
+개발자가 메모리에 접근불가능
+가비지 컬렉터가 불필요한 메모리를 회수해서 메모리를 최적화함
