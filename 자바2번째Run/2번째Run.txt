@@ -1,0 +1,72 @@
+처음 시작할 때 
+https://medium.com/duckuism/intellij%EC%97%90%EC%84%9C-eclipse-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-import-%ED%95%98%EA%B8%B0-9e222b5548db
+참고해서 IDE에서 인텔리제이 와 이클립스 다루기(이거는 2019버전 인텔리제이)
+
+- 인텔리제이를 사용한 이유
+- 이클립스 파일을 인텔리제이에 가져온 이유
+- 인텔리제이와 이클립스의 차이
+
+https://www.jetbrains.com/help/idea/migrating-from-eclipse-to-intellij-idea.html#user_interface
+인텔리제이 사이트에서 추천방법
+
+https://willbesoon.tistory.com/191
+이걸로 해결 (너카톡 본게임부터 시작)
+
+배열
+
+- 인덱스를 이용해서 자료형이 같은 데이터를 관리
+
+
+- 배열도 변수와 마찬가지로 선언과 초기화 과정을 거쳐 사용
+(배열 사용 후 초기화)
+(배열 선언과 동시에 초기화)
+
+- 배열 선언시 안에있는 변수의 타입은 미리 선언한걸로 넣어줘야함
+- new라는 연산자를 이용해서 배열의 크기를 선언
+
+위에 할 때 배열강의노트 밑에꺼 ㄱㄱ
+(배열 선언 후 초기화)
+public class helloworld {
+    public static void main(String[] args) {
+
+        int[] arr1 = new int[5]; // 배열 선언 단계
+        arr1[0] = 100;
+        arr1[1] = 200;
+        arr1[2] = 300;
+        arr1[3] = 400;
+        arr1[4] = 500;
+
+        System.out.println("arr[0] : " + arr1[0]);
+        System.out.println("arr[1] : " + arr1[1]);
+        System.out.println("arr[2] : " + arr1[2]);
+    }
+}
+
+->
+arr[0] : 100
+arr[1] : 200
+arr[2] : 300
+
+(배열 선언과 동시에 초기화)
+- 중괄호 사용 유의
+
+public class helloworld {
+    public static void main(String[] args) {
+
+        int[] arr2 = {10, 20, 30}; // 배열 선언 단계
+
+        System.out.println("arr[0] : " + arr2[0]);
+        System.out.println("arr[1] : " + arr2[1]);
+        System.out.println("arr[2] : " + arr2[2]);
+    }
+}
+
+
+-> 
+arr[0] : 10
+arr[0] : 20
+arr[0] : 30
+
+* 어떤 언어는 배열의 크기를 동적으로 줄였다 늘렸다 하는 반면에 자바는 한번 선언할 때 크기가 정해지면 바뀔 수 없다
+* 
+
