@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7f77901-d5d5-4633-88d7-ba286f03174e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java2tryy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helloworld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/자바2번째Run/자바2번째Run.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classstudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forwhiledo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ifgogo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/수업노트/2변수.txt" beforeDir="false" afterPath="$PROJECT_DIR$/수업노트/2변수.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java2tryy/helloworld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java2tryy/helloworld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloworld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/자바2번째Run/2번째Run.txt" beforeDir="false" afterPath="$PROJECT_DIR$/자바2번째Run/2번째Run.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +25,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/helloworld.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ifgogo.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -41,7 +44,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.forwhiledo">
+    <configuration name="forwhiledo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forwhiledo" />
+      <module name="java2tryy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="helloworld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="helloworld" />
       <module name="java2tryy" />
@@ -49,8 +59,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ifgogo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ifgogo" />
+      <module name="java2tryy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.forwhiledo" />
+        <item itemvalue="Application.ifgogo" />
         <item itemvalue="Application.helloworld" />
       </list>
     </recent_temporary>
@@ -66,6 +85,7 @@
       <workItem from="1647896735465" duration="1542000" />
       <workItem from="1647898297220" duration="16000" />
       <workItem from="1647898469060" duration="285000" />
+      <workItem from="1648022477158" duration="3864000" />
     </task>
     <servers />
   </component>

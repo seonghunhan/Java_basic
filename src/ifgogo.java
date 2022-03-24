@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class helloworld {
+public class ifgogo {
     public static void main(String[] args) {
 
         int num1 = 10;
