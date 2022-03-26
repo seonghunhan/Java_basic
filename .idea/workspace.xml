@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7f77901-d5d5-4633-88d7-ba286f03174e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/classstudy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/forwhiledo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ifgogo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnonymousClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstChildClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParentClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrivateStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecondChildClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java2tryy/helloworld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java2tryy/helloworld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloworld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/자바2번째Run/2번째Run.txt" beforeDir="false" afterPath="$PROJECT_DIR$/자바2번째Run/2번째Run.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -26,13 +30,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/FirstChildClass.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ParentClass.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/helloworld.java" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/ifgogo.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ObjectClass.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="26iBsTPL5gSlvthqaP9eWu8nTIc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,7 +54,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.forwhiledo">
+  <component name="RunManager" selected="Application.MainClass">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="java2tryy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="forwhiledo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="forwhiledo" />
       <module name="java2tryy" />
@@ -68,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.forwhiledo" />
         <item itemvalue="Application.ifgogo" />
         <item itemvalue="Application.helloworld" />
@@ -86,6 +104,9 @@
       <workItem from="1647898297220" duration="16000" />
       <workItem from="1647898469060" duration="285000" />
       <workItem from="1648022477158" duration="3864000" />
+      <workItem from="1648108178579" duration="1677000" />
+      <workItem from="1648189437564" duration="723000" />
+      <workItem from="1648270706540" duration="4744000" />
     </task>
     <servers />
   </component>
