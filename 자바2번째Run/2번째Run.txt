@@ -1,3 +1,7 @@
+강의 :  - 인프런 JAVA 강의, 자바 프로그래밍 입문 강좌 (renew ver.) - 초보부터 개발자 취업까지!!
+https://www.inflearn.com/course/%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94_java-renew/dashboard﻿
+
+
 처음 시작할 때 
 https://medium.com/duckuism/intellij%EC%97%90%EC%84%9C-eclipse-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-import-%ED%95%98%EA%B8%B0-9e222b5548db
 참고해서 IDE에서 인텔리제이 와 이클립스 다루기(이거는 2019버전 인텔리제이)
@@ -103,6 +107,7 @@ switch
 
 위에꺼할때 인텔리제이 if클래스 실행
 
+여기까지함!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 -----------------------------------------------------------
 for, while, do while 시작!!!!
 
@@ -622,27 +627,6 @@ InpustStream, OutputStream을 로컬이아닌 네트워크상에서 이루어지
 네트워킹 폴더 첫번째사진(서버소켓만든것)
 클라이언트에서는 소켓 객체를 선언할 때
 socket = new Socket( IP번호, 포트번호); 이렇게하면 끝
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 
 
 
