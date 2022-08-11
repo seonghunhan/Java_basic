@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7f77901-d5d5-4633-88d7-ba286f03174e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/자바2번째Run/2번째Run.txt" beforeDir="false" afterPath="$PROJECT_DIR$/자바2번째Run/2번째Run.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,6 +106,7 @@
       <workItem from="1648363384411" duration="2181000" />
       <workItem from="1648367325094" duration="2107000" />
       <workItem from="1648455640478" duration="5257000" />
+      <workItem from="1648793636266" duration="9000" />
     </task>
     <servers />
   </component>
