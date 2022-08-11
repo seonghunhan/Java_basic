@@ -17,7 +17,7 @@ public class User2 extends Thread{
 
 
 	public void run() {
-		calculator.setMemory(20);
+		calculator.setMemory(14);
 	}
 	
 	

@@ -13,15 +13,19 @@ public class ThreadNameExample {
 		
 		
 		Thread threadA = new ThreadA();
-		String threaAName = threadA.getName();
+		String threaAName = threadA.getName();	//인위적으로 스레드 이름을맥임
 
 		System.out.println("작업 스레드 이름 : " + threaAName); //threadA
 		threadA.start();
 		
 		
-		Thread threadB = new ThreadB();
+		Thread threadB = new ThreadB();   //위에서 스레드이름0을 A로 덮음 여기는 1
 		System.out.println("작업 스레드 이름: "+threadB.getName());
 		threadB.start();
+
+		Thread threadC = new ThreadB();   // 여기는 3번째인 인덱스2
+		System.out.println("작업 스레드 이름: "+threadC.getName());
+		threadC.start();
 		
 	}
 
